@@ -1,0 +1,5 @@
+C:\Users\Ajay\Documents\Visual Studio 2015\Projects\ConsoleApplication1\data_structure_with_csharp\bin\Debug\data_structure_with_csharp.dll
+C:\Users\Ajay\Documents\Visual Studio 2015\Projects\ConsoleApplication1\data_structure_with_csharp\bin\Debug\data_structure_with_csharp.pdb
+C:\Users\Ajay\Documents\Visual Studio 2015\Projects\ConsoleApplication1\data_structure_with_csharp\obj\Debug\data_structure_with_csharp.csprojResolveAssemblyReference.cache
+C:\Users\Ajay\Documents\Visual Studio 2015\Projects\ConsoleApplication1\data_structure_with_csharp\obj\Debug\data_structure_with_csharp.dll
+C:\Users\Ajay\Documents\Visual Studio 2015\Projects\ConsoleApplication1\data_structure_with_csharp\obj\Debug\data_structure_with_csharp.pdb
